@@ -1,4 +1,4 @@
-package modelo.relacionamento;
+package modelo.relacionamento.mod1;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

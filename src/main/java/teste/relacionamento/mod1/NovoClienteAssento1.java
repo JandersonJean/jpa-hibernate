@@ -1,8 +1,8 @@
-package teste.relacionamento;
+package teste.relacionamento.mod1;
 
 import infra.DAO;
-import modelo.relacionamento.Assento;
-import modelo.relacionamento.Cliente;
+import modelo.relacionamento.mod1.Assento;
+import modelo.relacionamento.mod1.Cliente;
 
 public class NovoClienteAssento1 {
  public static void main(String[] args) {
