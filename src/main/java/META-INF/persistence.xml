@@ -11,6 +11,8 @@
 		<class>modelo.relacionamento.mod1.Cliente</class>
 		<class>modelo.relacionamento.mod2.ItemPedido</class>
 		<class>modelo.relacionamento.mod2.Pedido</class>
+		<class>modelo.relacionamento.mod3.Tio</class>
+		<class>modelo.relacionamento.mod3.Sobrinho</class>
         
         <properties>
             <property name="javax.persistence.jdbc.driver"
