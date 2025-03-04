@@ -13,6 +13,8 @@
 		<class>modelo.relacionamento.mod2.Pedido</class>
 		<class>modelo.relacionamento.mod3.Tio</class>
 		<class>modelo.relacionamento.mod3.Sobrinho</class>
+		<class>modelo.relacionamento.mod4.Ator</class>
+		<class>modelo.relacionamento.mod4.Filme</class>
         
         <properties>
             <property name="javax.persistence.jdbc.driver"
