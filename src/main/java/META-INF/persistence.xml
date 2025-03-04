@@ -18,6 +18,9 @@
 		<class>modelo.relacionamento.mod3.Sobrinho</class>
 		<class>modelo.relacionamento.mod4.Ator</class>
 		<class>modelo.relacionamento.mod4.Filme</class>
+		<class>modelo.relacionamento.mod6.Endereco</class>
+		<class>modelo.relacionamento.mod6.Fornecedor</class>
+		<class>modelo.relacionamento.mod6.Funcionario</class>
         
         <properties>
             <property name="javax.persistence.jdbc.driver"
