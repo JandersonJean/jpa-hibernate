@@ -21,6 +21,8 @@
 		<class>modelo.relacionamento.mod6.Endereco</class>
 		<class>modelo.relacionamento.mod6.Fornecedor</class>
 		<class>modelo.relacionamento.mod6.Funcionario</class>
+		<class>modelo.heranca.mod1.Aluno</class>
+		<class>modelo.heranca.mod1.AlunoBolsista</class>
         
         <properties>
             <property name="javax.persistence.jdbc.driver"
